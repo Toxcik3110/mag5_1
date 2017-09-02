@@ -7,3 +7,5 @@
 [Основи розвитку сталих систем](https://github.com/Toxcik3110/mag5_1_OSRS)
 
 [Патентознавство та інтелектуальна власність](https://github.com/Toxcik3110/mag5_1_PTI)
+
+[Методи захисту WEB-систем від основних видів атак](https://github.com/Toxcik3110/mag5_1_MZIS)
