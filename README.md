@@ -13,3 +13,5 @@
 [Мобільні технології розподілених систем](https://github.com/Toxcik3110/mag5_1_MTRS)
 
 [Проектування систем з розподіленними базами данних](https://github.com/Toxcik3110/mag5_1_PSRBD)
+
+[Сучасні архітектурні стилі](https://github.com/Toxcik3110/mag5_1_SAS)
