@@ -11,3 +11,5 @@
 [Методи захисту WEB-систем від основних видів атак](https://github.com/Toxcik3110/mag5_1_MZIS)
 
 [Мобільні технології розподілених систем](https://github.com/Toxcik3110/mag5_1_MTRS)
+
+[Проектування систем з розподіленними базами данних](https://github.com/Toxcik3110/mag5_1_PSRBD)
