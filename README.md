@@ -15,3 +15,5 @@
 [Проектування систем з розподіленними базами данних](https://github.com/Toxcik3110/mag5_1_PSRBD)
 
 [Сучасні архітектурні стилі](https://github.com/Toxcik3110/mag5_1_SAS)
+
+[Цивільна оборона / Цивільний захист](https://github.com/Toxcik3110/mag5_1_CO)
